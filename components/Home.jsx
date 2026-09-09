@@ -10,7 +10,7 @@ import arrow from "../src/assets/arrow2.svg";
 import ecellHome from '../src/assets/ecell_home2.png';
 
 // Import Data
-import teamData from "../Backend/teamData25.js";
+import teamData from "../Backend/teamData26.js";
 import HeroSection from "./HeroSection.jsx";
 import EventFeed from "./EventFeed.jsx";
 
