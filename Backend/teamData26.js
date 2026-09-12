@@ -64,7 +64,7 @@ const teamData = [
     {
         name:'Tanay Vashist',
         role:'Deputy Head',
-        image:images['Shreyas_vadthya.webp'],
+        image:images['Tanay-BECjVWiH.webp'],
         mail:'112201038@smail.iitpkd.ac.in',
         linkedin:'https://www.linkedin.com/in/shreyas-vadthya-788928250/'
     },
@@ -78,7 +78,7 @@ const teamData = [
     {
         name:'Ausula Madhu Charan Chary',
         role:'Event Coordinator Head',
-        image:images['Aashutosh.webp'],
+        image:images['MCC-oNajuKuW.webp'],
         mail:'132401010@smail.iitpkd.ac.in',
         linkedin:'https://www.linkedin.com/in/aashutosh-kr-ray-9b505b312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'
     },
