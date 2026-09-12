@@ -20,7 +20,7 @@ function Contacts(){
     // const formData = new FormData(e);
     try{
         const response = await axios.post(
-            'http://localhost:5000/submit',
+            'http://localhost:5174/submit',
             // Object.fromEntries(formData.entries())
             e
         );
