@@ -134,7 +134,7 @@ const teamData = [
     {
         name:'Ishaan Singh',
         role:'Content Creator & Media Publicity Head',
-        image:images['Emmanuel_Johnson.webp'],
+        image:images['Ishaan_Singh.webp'],
         mail:'122401015@smail.iitpkd.ac.in',
         linkedin:'https://www.linkedin.com/search/results/all/?keywords=Ishaan%20Singh&origin=HISTORY&position=0'
     }
