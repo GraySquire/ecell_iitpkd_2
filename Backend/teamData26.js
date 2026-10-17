@@ -35,7 +35,7 @@ const images = Object.fromEntries(
 const teamData = [
     {
         name:'Thirunahari Milind ',
-        role:'Head',
+        role:'President',
         image:images['Milind.webp'],
         mail:'102401035@smail.iitpkd.ac.in',
         linkedin:'https://www.linkedin.com/in/milind-thirunahari-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'
@@ -54,12 +54,19 @@ const teamData = [
         mail:'132301033@smail.iitpkd.ac.in',
         linkedin:'https://www.linkedin.com/in/siddharth-kr-997667249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'
     },
-        {
+    {
         name:'Aryan',
-        role:'Mentor',
+        role:'Tech Mentor',
         image:images['Aryan.webp'],
         mail:'112301041@smail.iitpkd.ac.in',
         linkedin:'https://www.linkedin.com/in/aryan-b34639288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'
+    },
+    {
+        name:'Sai Kiran',
+        role:'Tech Mentor',
+        image:images['Sai_Kiran.webp'],
+        mail:'142401034@smail.iitpkd.ac.in',
+        linkedin:'https://www.linkedin.com/in/aashutosh-kr-ray-9b505b312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'
     },
     {
         name:'Tanay Vashist',
@@ -76,7 +83,7 @@ const teamData = [
         linkedin:'https://www.linkedin.com/in/aadityadinesh/'
     },
     {
-        name:'Ausula Madhu Charan Chary',
+        name:'Madhu Charan Chary',
         role:'Event Coordinator Head',
         image:images['MCC.webp'],
         mail:'132401010@smail.iitpkd.ac.in',
@@ -84,10 +91,17 @@ const teamData = [
     },
     {
         name:'Mohnish Murugavel',
-        role:'Outreach and Internal Head',
+        role:'Outreach and Internal Relations and Tech',
         image:images['Mohnish_Murugavel.webp'],
         mail:'142501019@smail.iitpkd.ac.in',
         linkedin:'https://www.linkedin.com/in/mohnish-murugavel-1b50a73b7/'
+    },
+    {
+        name:'Ridhwiman Gayen',
+        role:'Tech',
+        image:images['Ridhwiman_Gayen.webp'],
+        mail:'122601036@smail.iitpkd.ac.in',
+        linkedin:'https://www.linkedin.com/in/ridhwiman-gayen-ab0640425/'
     },
     {
         name:'Nampally Apoorva Sai Kaushik',
@@ -98,7 +112,7 @@ const teamData = [
     },
     {
         name:'Pamu Vedhanth Chandr',
-        role:'Outreach and Internal Head',
+        role:'Outreach and Internal Relations',
         image:images['Vedhanth_Chandr.webp'],
         mail:'112501022@smail.iitpkd.ac.in',
         linkedin:''
@@ -109,6 +123,20 @@ const teamData = [
         image:images['Emmanuel_Johnson.webp'],
         mail:'122401015@smail.iitpkd.ac.in',
         linkedin:'https://www.linkedin.com/in/emmanuel-johnson-618598332/'
+    },
+    {
+        name:'Devidyuti K Pisharody',
+        role:'Media Team Member',
+        image:images['Devidyuti_K_Pisharody.webp'],
+        mail:'122601013@smail.iitpkd.ac.in',
+        linkedin:'https://www.linkedin.com/in/devidyuti-k-pisharody-10b88341a/'
+    },
+    {
+        name:'Ishaan Singh',
+        role:'Content Creator & Media Publicity Head',
+        image:images['Emmanuel_Johnson.webp'],
+        mail:'122401015@smail.iitpkd.ac.in',
+        linkedin:'https://www.linkedin.com/search/results/all/?keywords=Ishaan%20Singh&origin=HISTORY&position=0'
     }
 ]
 
